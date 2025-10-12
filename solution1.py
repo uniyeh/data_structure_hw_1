@@ -1,5 +1,4 @@
 import numpy as np
-import random as rnd
 from dataclasses import dataclass, field
 from typing import List
 
@@ -45,6 +44,19 @@ class Solution1:
 
         # Return -1 is there is no score     
         return -1
+    
+    def add_all_score(self):
+        total = 0
+        for i in range(self.current_usage):
+            for score in self.datas[i].scores:
+                total += score
+
+        return total
+
+    def clean_up(self):
+        self.capacity = 1
+        self.datas = np.empty(self.capacity, dtype=object)
+        self.current_usage = 0
 
     def _resize(self):
         # Expand array
@@ -68,29 +80,28 @@ class Solution1:
         self.current_usage += 1
 
 def _binary_search(arr, left, right, target):
+    # Check if the search range is valid (left index hasn't crossed right index)
     if right >= left:
+        # Calculate the middle index to avoid integer overflow
         mid = left + (right - left) // 2
 
+        # Check if the middle element's id matches the target
         if arr[mid].id == target:
+            # Found the target, return its index
             return mid
+        # If target is smaller than middle element's id
         elif target < arr[mid].id:
+            # Search in the left half (before mid)
             return _binary_search(arr, left, mid - 1, target)
+        # If target is larger than middle element's id
         else:
+            # Search in the right half (after mid)
             return _binary_search(arr, mid + 1, right, target)
-    
+
+    # Base case: search range is invalid (left > right)
+    # This means target was not found
     else:
+        # Return the position where the target should be inserted
+        # to maintain sorted order
         return left
-
-def _generate_random_inputs(amt: int) -> List[Student]:
-    inputs = list()
-    for i in range(amt):
-        id = rnd.randint(1, 2**20)
-        scores = list()
-        scores_amt = rnd.randint(1, 3)
-        for i in range(scores_amt):
-            scores.append(rnd.randint(0, 100))
-        
-        inputs.append(Student(id, scores))
-
-    return inputs
 

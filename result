@@ -1,0 +1,1283 @@
+Start generating random input...
+Random input generated.
+Start generating random request...
+Random requests generated.
+Solution 1 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.0832052230834961 seconds
+Search start...
+Search inputs: 1.642524003982544 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.29067301750183105 seconds
+Search start...
+Search inputs: 1.8214111328125 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 1.0898470878601074 seconds
+Search start...
+Search inputs: 2.00968074798584 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 4.326611042022705 seconds
+Search start...
+Search inputs: 2.2265539169311523 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 16.929476022720337 seconds
+Search start...
+Search inputs: 2.408140182495117 seconds
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 64.9430558681488 seconds
+Search start...
+Search inputs: 2.587397813796997 seconds
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 258.94941687583923 seconds
+Search start...
+Search inputs: 3.5512218475341797 seconds
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 1 completed ---------------------------------------
+Solution 2 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.0004138946533203125 seconds
+Search start...
+Search inputs: 0.10392999649047852 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.00074005126953125 seconds
+Search start...
+Search inputs: 0.10527896881103516 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.0014789104461669922 seconds
+Search start...
+Search inputs: 0.10421991348266602 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 0.002807140350341797 seconds
+Search start...
+Search inputs: 0.10796689987182617 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 0.005428791046142578 seconds
+Search start...
+Search inputs: 0.10459589958190918 seconds
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 0.012305736541748047 seconds
+Search start...
+Search inputs: 0.11860895156860352 seconds
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 0.02113795280456543 seconds
+Search start...
+Search inputs: 0.12442278861999512 seconds
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 0.054717063903808594 seconds
+Search start...
+Search inputs: 0.13419795036315918 seconds
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert inputs: 0.13445091247558594 seconds
+Search start...
+Search inputs: 0.17067289352416992 seconds
+**Round 19 end**
+**Round 20 start**
+Insert start...
+Insert inputs: 0.2962181568145752 seconds
+Search start...
+Search inputs: 0.20566391944885254 seconds
+**Round 20 end**
+**Round 21 start**
+Insert start...
+Insert inputs: 0.7119901180267334 seconds
+Search start...
+Search inputs: 0.24898576736450195 seconds
+**Round 21 end**
+**Round 22 start**
+Insert start...
+Insert inputs: 1.6019871234893799 seconds
+Search start...
+Search inputs: 0.2684180736541748 seconds
+**Round 22 end**
+**Round 23 start**
+Insert start...
+Insert inputs: 3.2874820232391357 seconds
+Search start...
+Search inputs: 0.2699451446533203 seconds
+**Round 23 end**
+**Round 24 start**
+Insert start...
+Insert inputs: 7.261136770248413 seconds
+Search start...
+Search inputs: 0.2863729000091553 seconds
+**Round 24 end**
+**Round 25 start**
+Insert start...
+Insert inputs: 14.723204135894775 seconds
+Search start...
+Search inputs: 0.30191612243652344 seconds
+**Round 25 end**
+Solution 2 completed ---------------------------------------
+Solution 3 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.04394793510437012 seconds
+Search start...
+Search inputs: 32.656009912490845 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.12652087211608887 seconds
+Search start...
+Search inputs: 65.01468300819397 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.49063825607299805 seconds
+Search start...
+Search inputs: 130.05646276474 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 1.377805233001709 seconds
+Search start...
+Search inputs: 258.9362759590149 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 5.078300952911377 seconds
+Search start...
+Search inputs: 516.6254000663757 seconds
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 18.881623029708862 seconds
+Search start...
+Insert timeout: over 10 minutes
+Solution 3 completed ---------------------------------------
+
+Start generating random input...
+Random input generated.
+Start generating random request...
+Random requests generated.
+Solution 1 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 9.059906005859375e-06 seconds
+Add scores start...
+Add scores: 1.1920928955078125e-06 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 9.298324584960938e-06 seconds
+Add scores start...
+Add scores: 9.5367431640625e-07 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 9.298324584960938e-06 seconds
+Add scores start...
+Add scores: 1.9073486328125e-06 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 2.1696090698242188e-05 seconds
+Add scores start...
+Add scores: 2.1457672119140625e-06 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 6.008148193359375e-05 seconds
+Add scores start...
+Add scores: 3.814697265625e-06 seconds
+**Round 15 end**
+Solution 1 completed ---------------------------------------
+Solution 2 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 1.6689300537109375e-06 seconds
+Add scores start...
+Add scores: 0.010107755661010742 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 1.9073486328125e-06 seconds
+Add scores start...
+Add scores: 0.00975799560546875 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 2.1457672119140625e-06 seconds
+Add scores start...
+Add scores: 0.009321928024291992 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 5.0067901611328125e-06 seconds
+Add scores start...
+Add scores: 0.009005069732666016 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 8.106231689453125e-06 seconds
+Add scores start...
+Add scores: 0.008994102478027344 seconds
+**Round 15 end**
+Solution 2 completed ---------------------------------------
+Solution 3 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 5.0067901611328125e-06 seconds
+Add scores start...
+Add scores: 3.0994415283203125e-06 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 6.9141387939453125e-06 seconds
+Add scores start...
+Add scores: 9.5367431640625e-07 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 3.814697265625e-06 seconds
+Add scores start...
+Add scores: 9.5367431640625e-07 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 1.0013580322265625e-05 seconds
+Add scores start...
+Add scores: 2.1457672119140625e-06 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 3.3855438232421875e-05 seconds
+Add scores start...
+Add scores: 3.0994415283203125e-06 seconds
+**Round 15 end**
+Solution 3 completed ---------------------------------------
+(venv) (base) abby@MacBook-Pro-4 HW1 % python main.py
+Start generating random input...
+Random input generated.
+Solution 1 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.0719599723815918 seconds
+Add scores start...
+Add scores: 0.0002391338348388672 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.277202844619751 seconds
+Add scores start...
+Add scores: 0.0005931854248046875 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 1.1008479595184326 seconds
+Add scores start...
+Add scores: 0.0009851455688476562 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 4.283454895019531 seconds
+Add scores start...
+Add scores: 0.0020329952239990234 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 16.811957120895386 seconds
+Add scores start...
+Add scores: 0.00615382194519043 seconds
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 65.9603180885315 seconds
+Add scores start...
+Add scores: 0.013743877410888672 seconds
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 243.49284315109253 seconds
+Add scores start...
+Add scores: 0.03487586975097656 seconds
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 1 completed ---------------------------------------
+Solution 2 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.0003440380096435547 seconds
+Add scores start...
+Add scores: 0.00947713851928711 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.0008256435394287109 seconds
+Add scores start...
+Add scores: 0.009744882583618164 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.0014929771423339844 seconds
+Add scores start...
+Add scores: 0.010347843170166016 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 0.0030219554901123047 seconds
+Add scores start...
+Add scores: 0.010962963104248047 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 0.0052738189697265625 seconds
+Add scores start...
+Add scores: 0.013466119766235352 seconds
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 0.01218104362487793 seconds
+Add scores start...
+Add scores: 0.019277095794677734 seconds
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 0.022539138793945312 seconds
+Add scores start...
+Add scores: 0.03202986717224121 seconds
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 0.044905900955200195 seconds
+Add scores start...
+Add scores: 0.05527806282043457 seconds
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert inputs: 0.10178899765014648 seconds
+Add scores start...
+Add scores: 0.09299993515014648 seconds
+**Round 19 end**
+**Round 20 start**
+Insert start...
+Insert inputs: 0.23494386672973633 seconds
+Add scores start...
+Add scores: 0.15155482292175293 seconds
+**Round 20 end**
+**Round 21 start**
+Insert start...
+Insert inputs: 0.5292448997497559 seconds
+Add scores start...
+Add scores: 0.21423816680908203 seconds
+**Round 21 end**
+**Round 22 start**
+Insert start...
+Insert inputs: 1.366058349609375 seconds
+Add scores start...
+Add scores: 0.30946803092956543 seconds
+**Round 22 end**
+**Round 23 start**
+Insert start...
+Insert inputs: 2.804251194000244 seconds
+Add scores start...
+Add scores: 0.5505008697509766 seconds
+**Round 23 end**
+**Round 24 start**
+Insert start...
+Insert inputs: 6.276888132095337 seconds
+Add scores start...
+Add scores: 0.8749690055847168 seconds
+**Round 24 end**
+**Round 25 start**
+Insert start...
+Insert inputs: 13.361135005950928 seconds
+Add scores start...
+Add scores: 1.4379370212554932 seconds
+**Round 25 end**
+Solution 2 completed ---------------------------------------
+Solution 3 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.03770804405212402 seconds
+Add scores start...
+Add scores: 0.0001850128173828125 seconds
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.1301262378692627 seconds
+Add scores start...
+Add scores: 0.0003647804260253906 seconds
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.39902186393737793 seconds
+Add scores start...
+Add scores: 0.0006570816040039062 seconds
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 1.5527303218841553 seconds
+Add scores start...
+Add scores: 0.0014231204986572266 seconds
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 6.689646244049072 seconds
+Add scores start...
+Add scores: 0.0030879974365234375 seconds
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 22.003474950790405 seconds
+Add scores start...
+Add scores: 0.0057621002197265625 seconds
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 81.7668809890747 seconds
+Add scores start...
+Add scores: 0.012384176254272461 seconds
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 293.17602729797363 seconds
+Add scores start...
+Add scores: 0.025058269500732422 seconds
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 3 completed ---------------------------------------
+
+
+
+
+Start generating random input...
+Random input generated.
+Start generating random request...
+Random requests generated.
+Solution 1 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 9.059906005859375e-06 seconds 
+Add scores start...
+Add scores: 1.1920928955078125e-06 seconds 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 9.298324584960938e-06 seconds 
+Add scores start...
+Add scores: 9.5367431640625e-07 seconds 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 9.298324584960938e-06 seconds 
+Add scores start...
+Add scores: 1.9073486328125e-06 seconds 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 2.1696090698242188e-05 seconds 
+Add scores start...
+Add scores: 2.1457672119140625e-06 seconds 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 6.008148193359375e-05 seconds 
+Add scores start...
+Add scores: 3.814697265625e-06 seconds 
+**Round 15 end**
+Solution 1 completed ---------------------------------------
+Solution 2 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 1.6689300537109375e-06 seconds 
+Add scores start...
+Add scores: 0.010107755661010742 seconds 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 1.9073486328125e-06 seconds 
+Add scores start...
+Add scores: 0.00975799560546875 seconds 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 2.1457672119140625e-06 seconds 
+Add scores start...
+Add scores: 0.009321928024291992 seconds 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 5.0067901611328125e-06 seconds 
+Add scores start...
+Add scores: 0.009005069732666016 seconds 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 8.106231689453125e-06 seconds 
+Add scores start...
+Add scores: 0.008994102478027344 seconds 
+**Round 15 end**
+Solution 2 completed ---------------------------------------
+Solution 3 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 5.0067901611328125e-06 seconds 
+Add scores start...
+Add scores: 3.0994415283203125e-06 seconds 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 6.9141387939453125e-06 seconds 
+Add scores start...
+Add scores: 9.5367431640625e-07 seconds 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 3.814697265625e-06 seconds 
+Add scores start...
+Add scores: 9.5367431640625e-07 seconds 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 1.0013580322265625e-05 seconds 
+Add scores start...
+Add scores: 2.1457672119140625e-06 seconds 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 3.3855438232421875e-05 seconds 
+Add scores start...
+Add scores: 3.0994415283203125e-06 seconds 
+**Round 15 end**
+Solution 3 completed ---------------------------------------
+(venv) (base) abby@MacBook-Pro-4 HW1 % python main.py
+Start generating random input...
+Random input generated.
+Solution 1 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.0719599723815918 seconds 
+Add scores start...
+Add scores: 0.0002391338348388672 seconds 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.277202844619751 seconds 
+Add scores start...
+Add scores: 0.0005931854248046875 seconds 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 1.1008479595184326 seconds 
+Add scores start...
+Add scores: 0.0009851455688476562 seconds 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 4.283454895019531 seconds 
+Add scores start...
+Add scores: 0.0020329952239990234 seconds 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 16.811957120895386 seconds 
+Add scores start...
+Add scores: 0.00615382194519043 seconds 
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 65.9603180885315 seconds 
+Add scores start...
+Add scores: 0.013743877410888672 seconds 
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 243.49284315109253 seconds 
+Add scores start...
+Add scores: 0.03487586975097656 seconds 
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 1 completed ---------------------------------------
+Solution 2 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.0003440380096435547 seconds 
+Add scores start...
+Add scores: 0.00947713851928711 seconds 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.0008256435394287109 seconds 
+Add scores start...
+Add scores: 0.009744882583618164 seconds 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.0014929771423339844 seconds 
+Add scores start...
+Add scores: 0.010347843170166016 seconds 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 0.0030219554901123047 seconds 
+Add scores start...
+Add scores: 0.010962963104248047 seconds 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 0.0052738189697265625 seconds 
+Add scores start...
+Add scores: 0.013466119766235352 seconds 
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 0.01218104362487793 seconds 
+Add scores start...
+Add scores: 0.019277095794677734 seconds 
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 0.022539138793945312 seconds 
+Add scores start...
+Add scores: 0.03202986717224121 seconds 
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 0.044905900955200195 seconds 
+Add scores start...
+Add scores: 0.05527806282043457 seconds 
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert inputs: 0.10178899765014648 seconds 
+Add scores start...
+Add scores: 0.09299993515014648 seconds 
+**Round 19 end**
+**Round 20 start**
+Insert start...
+Insert inputs: 0.23494386672973633 seconds 
+Add scores start...
+Add scores: 0.15155482292175293 seconds 
+**Round 20 end**
+**Round 21 start**
+Insert start...
+Insert inputs: 0.5292448997497559 seconds 
+Add scores start...
+Add scores: 0.21423816680908203 seconds 
+**Round 21 end**
+**Round 22 start**
+Insert start...
+Insert inputs: 1.366058349609375 seconds 
+Add scores start...
+Add scores: 0.30946803092956543 seconds 
+**Round 22 end**
+**Round 23 start**
+Insert start...
+Insert inputs: 2.804251194000244 seconds 
+Add scores start...
+Add scores: 0.5505008697509766 seconds 
+**Round 23 end**
+**Round 24 start**
+Insert start...
+Insert inputs: 6.276888132095337 seconds 
+Add scores start...
+Add scores: 0.8749690055847168 seconds 
+**Round 24 end**
+**Round 25 start**
+Insert start...
+Insert inputs: 13.361135005950928 seconds 
+Add scores start...
+Add scores: 1.4379370212554932 seconds 
+**Round 25 end**
+Solution 2 completed ---------------------------------------
+Solution 3 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.03770804405212402 seconds 
+Add scores start...
+Add scores: 0.0001850128173828125 seconds 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.1301262378692627 seconds 
+Add scores start...
+Add scores: 0.0003647804260253906 seconds 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.39902186393737793 seconds 
+Add scores start...
+Add scores: 0.0006570816040039062 seconds 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 1.5527303218841553 seconds 
+Add scores start...
+Add scores: 0.0014231204986572266 seconds 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 6.689646244049072 seconds 
+Add scores start...
+Add scores: 0.0030879974365234375 seconds 
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 22.003474950790405 seconds 
+Add scores start...
+Add scores: 0.0057621002197265625 seconds 
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 81.7668809890747 seconds 
+Add scores start...
+Add scores: 0.012384176254272461 seconds 
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 293.17602729797363 seconds 
+Add scores start...
+Add scores: 0.025058269500732422 seconds 
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 3 completed ---------------------------------------
+
+
+
+
+
+(venv) (base) abby@MacBook-Pro-4 HW1 % python main.py
+Start generating random input...
+Random input generated.
+Solution 1 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.07560491561889648 seconds 
+Add scores start...
+Add scores: 0.0002779960632324219 seconds - 200301 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.27562642097473145 seconds 
+Add scores start...
+Add scores: 0.0004200935363769531 seconds - 416813 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 1.1329107284545898 seconds 
+Add scores start...
+Add scores: 0.001085042953491211 seconds - 815158 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 4.301054000854492 seconds 
+Add scores start...
+Add scores: 0.002882242202758789 seconds - 1651238 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 17.170443058013916 seconds 
+Add scores start...
+Add scores: 0.006735086441040039 seconds - 3270179 
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 67.21698594093323 seconds 
+Add scores start...
+Add scores: 0.015470027923583984 seconds - 6559519 
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 248.7636580467224 seconds 
+Add scores start...
+Add scores: 0.04887986183166504 seconds - 13082288 
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 1 completed ---------------------------------------
+Solution 2 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.000331878662109375 seconds 
+Add scores start...
+Add scores: 0.009756088256835938 seconds - 200804 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.0007588863372802734 seconds 
+Add scores start...
+Add scores: 0.009991168975830078 seconds - 417535 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.0021522045135498047 seconds 
+Add scores start...
+Add scores: 0.011477947235107422 seconds - 818097 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 0.002847909927368164 seconds 
+Add scores start...
+Add scores: 0.011155843734741211 seconds - 1665067 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 0.006474018096923828 seconds 
+Add scores start...
+Add scores: 0.014283895492553711 seconds - 3315529 
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 0.012366056442260742 seconds 
+Add scores start...
+Add scores: 0.01932501792907715 seconds - 6756774 
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 0.02285003662109375 seconds 
+Add scores start...
+Add scores: 0.03182506561279297 seconds - 13866130 
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 0.04761004447937012 seconds 
+Add scores start...
+Add scores: 0.05488109588623047 seconds - 28293513 
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert inputs: 0.12154912948608398 seconds 
+Add scores start...
+Add scores: 0.09121990203857422 seconds - 52416934 
+**Round 19 end**
+**Round 20 start**
+Insert start...
+Insert inputs: 0.2683680057525635 seconds 
+Add scores start...
+Add scores: 0.19761109352111816 seconds - 104907753 
+**Round 20 end**
+**Round 21 start**
+Insert start...
+Insert inputs: 0.6018047332763672 seconds 
+Add scores start...
+Add scores: 0.20999503135681152 seconds - 209626228 
+**Round 21 end**
+**Round 22 start**
+Insert start...
+Insert inputs: 1.3744728565216064 seconds 
+Add scores start...
+Add scores: 0.298173189163208 seconds - 419525057 
+**Round 22 end**
+**Round 23 start**
+Insert start...
+Insert inputs: 2.8948118686676025 seconds 
+Add scores start...
+Add scores: 0.5399751663208008 seconds - 838882911 
+**Round 23 end**
+**Round 24 start**
+Insert start...
+Insert inputs: 6.261830806732178 seconds 
+Add scores start...
+Add scores: 0.8281161785125732 seconds - 1677219367 
+**Round 24 end**
+**Round 25 start**
+Insert start...
+Insert inputs: 13.298971891403198 seconds 
+Add scores start...
+Add scores: 1.420760154724121 seconds - 3355776545 
+**Round 25 end**
+Solution 2 completed ---------------------------------------
+Solution 3 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.05842304229736328 seconds 
+Add scores start...
+Add scores: 0.0001838207244873047 seconds - 201307 
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.08704209327697754 seconds 
+Add scores start...
+Add scores: 0.0003452301025390625 seconds - 418257 
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.3382728099822998 seconds 
+Add scores start...
+Add scores: 0.0007290840148925781 seconds - 821036 
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 1.3596692085266113 seconds 
+Add scores start...
+Add scores: 0.0014090538024902344 seconds - 1678896 
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 4.964354991912842 seconds 
+Add scores start...
+Add scores: 0.0028438568115234375 seconds - 3360879 
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 16.505826950073242 seconds 
+Add scores start...
+Add scores: 0.006148099899291992 seconds - 6954029 
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 71.52277088165283 seconds 
+Add scores start...
+Add scores: 0.012343645095825195 seconds - 14649972 
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 290.6016230583191 seconds 
+Add scores start...
+Add scores: 0.025077104568481445 seconds - 31327607 
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 3 completed ---------------------------------------
+
+
+
+
+
+        
+Start generating random input...
+Random input generated.
+Solution 1 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.43944406509399414 seconds 
+Memory used: 0.24 MB
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 1.7674460411071777 seconds 
+Memory used: 0.39 MB
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 7.144289970397949 seconds 
+Memory used: 0.70 MB
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 28.363139152526855 seconds 
+Memory used: 2.01 MB
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 109.90689206123352 seconds 
+Memory used: 3.23 MB
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 427.5150463581085 seconds 
+Memory used: 5.64 MB
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 1 completed ---------------------------------------
+Solution 2 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.0005469322204589844 seconds 
+Memory used: 0.00 MB
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.0010950565338134766 seconds 
+Memory used: 0.00 MB
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.002184152603149414 seconds 
+Memory used: 0.00 MB
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 0.004547119140625 seconds 
+Memory used: 0.00 MB
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 0.009122133255004883 seconds 
+Memory used: 0.01 MB
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 0.018615007400512695 seconds 
+Memory used: 0.04 MB
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 0.04421210289001465 seconds 
+Memory used: 0.13 MB
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 0.10614824295043945 seconds 
+Memory used: 0.44 MB
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert inputs: 0.23676300048828125 seconds 
+Memory used: 1.69 MB
+**Round 19 end**
+**Round 20 start**
+Insert start...
+Insert inputs: 0.6213619709014893 seconds 
+Memory used: 6.24 MB
+**Round 20 end**
+**Round 21 start**
+Insert start...
+Insert inputs: 1.3995819091796875 seconds 
+Memory used: 20.59 MB
+**Round 21 end**
+**Round 22 start**
+Insert start...
+Insert inputs: 3.150857925415039 seconds 
+Memory used: 55.83 MB
+**Round 22 end**
+**Round 23 start**
+Insert start...
+Insert inputs: 6.713304042816162 seconds 
+Memory used: 123.80 MB
+**Round 23 end**
+**Round 24 start**
+Insert start...
+Insert inputs: 12.74219274520874 seconds 
+Memory used: 258.16 MB
+**Round 24 end**
+**Round 25 start**
+Insert start...
+Insert inputs: 24.165401935577393 seconds 
+Memory used: 530.37 MB
+**Round 25 end**
+Solution 2 completed ---------------------------------------
+Solution 3 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.5133230686187744 seconds 
+Memory used: 0.17 MB
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 1.4083247184753418 seconds 
+Memory used: 0.34 MB
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 4.5448830127716064 seconds 
+Memory used: 0.69 MB
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 16.598024129867554 seconds 
+Memory used: 1.38 MB
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 59.90488004684448 seconds 
+Memory used: 2.75 MB
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 220.65669417381287 seconds 
+Memory used: 5.50 MB
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 3 completed ---------------------------------------
+
+
+
+Start generating random input...
+Random input generated.
+Solution 1 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.42465996742248535 seconds 
+Memory used: 0.24 MB
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 1.7651588916778564 seconds 
+Memory used: 0.39 MB
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 6.975566864013672 seconds 
+Memory used: 0.70 MB
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 28.388549089431763 seconds 
+Memory used: 2.00 MB
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 112.04678916931152 seconds 
+Memory used: 3.23 MB
+**Round 15 end**
+**Round 16 start**
+Insert start...
+
+Insert inputs: 435.8945732116699 seconds 
+Memory used: 5.64 MB
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 1 completed ---------------------------------------
+Solution 2 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.0005991458892822266 seconds 
+Memory used: 8.00 MB
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 0.0011131763458251953 seconds 
+Memory used: 8.00 MB
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 0.002198934555053711 seconds 
+Memory used: 8.00 MB
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 0.005805253982543945 seconds 
+Memory used: 8.00 MB
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 0.009641408920288086 seconds 
+Memory used: 8.01 MB
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 0.02211594581604004 seconds 
+Memory used: 8.04 MB
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert inputs: 0.05346488952636719 seconds 
+Memory used: 8.13 MB
+**Round 17 end**
+**Round 18 start**
+Insert start...
+Insert inputs: 0.11494827270507812 seconds 
+Memory used: 8.43 MB
+**Round 18 end**
+**Round 19 start**
+Insert start...
+Insert inputs: 0.24332714080810547 seconds 
+Memory used: 9.67 MB
+**Round 19 end**
+**Round 20 start**
+Insert start...
+Insert inputs: 0.6812548637390137 seconds 
+Memory used: 14.24 MB
+**Round 20 end**
+**Round 21 start**
+Insert start...
+Insert inputs: 1.6327941417694092 seconds 
+Memory used: 28.59 MB
+**Round 21 end**
+**Round 22 start**
+Insert start...
+Insert inputs: 3.500687837600708 seconds 
+Memory used: 63.80 MB
+**Round 22 end**
+**Round 23 start**
+Insert start...
+Insert inputs: 7.0173399448394775 seconds 
+Memory used: 131.85 MB
+**Round 23 end**
+**Round 24 start**
+Insert start...
+Insert inputs: 12.97785997390747 seconds 
+Memory used: 266.11 MB
+**Round 24 end**
+**Round 25 start**
+Insert start...
+Insert inputs: 25.118530988693237 seconds 
+Memory used: 538.36 MB
+**Round 25 end**
+Solution 2 completed ---------------------------------------
+Solution 3 ---------------------------------------
+**Round 11 start**
+Insert start...
+Insert inputs: 0.5156528949737549 seconds 
+Memory used: 0.18 MB
+**Round 11 end**
+**Round 12 start**
+Insert start...
+Insert inputs: 1.3962230682373047 seconds 
+Memory used: 0.34 MB
+**Round 12 end**
+**Round 13 start**
+Insert start...
+Insert inputs: 4.3281309604644775 seconds 
+Memory used: 0.69 MB
+**Round 13 end**
+**Round 14 start**
+Insert start...
+Insert inputs: 14.543066024780273 seconds 
+Memory used: 1.38 MB
+**Round 14 end**
+**Round 15 start**
+Insert start...
+Insert inputs: 57.86196994781494 seconds 
+Memory used: 2.75 MB
+**Round 15 end**
+**Round 16 start**
+Insert start...
+Insert inputs: 248.2596390247345 seconds 
+Memory used: 5.50 MB
+**Round 16 end**
+**Round 17 start**
+Insert start...
+Insert timeout: over 10 minutes
+Solution 3 completed ---------------------------------------
